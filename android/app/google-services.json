@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727810748170",
+    "project_id": "scanestein-39e7e",
+    "storage_bucket": "scanestein-39e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727810748170:android:2e4f6e9336cddd9a3f54f3",
+        "android_client_info": {
+          "package_name": "com.brothers.scanestein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727810748170-6hdmpoltcor5qko6tc5p8hmv9l34loar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLc9Q0wgnm6Hj4xLjFqLjuZQc4wfK6-jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727810748170-6hdmpoltcor5qko6tc5p8hmv9l34loar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
